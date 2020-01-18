@@ -1,8 +1,8 @@
-def oxford_comma(arr)
-  arr.split(",")
+def oxford_comma(string)
+  string.split(",")
   if arr.count == 1
     return arr
   else
-    arr
+    "errrr""
   end
 end
