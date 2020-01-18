@@ -3,6 +3,7 @@ def oxford_comma(string)
   if arr.count == 1
     return arr
   else
-    "errrr""
+    "errrr"
   end
+  binding.pry
 end
